@@ -11,3 +11,4 @@ python3 generator.py
 ```
 Place your visual NFT assets in the same working directory.
 Remember to adjust your paths and layers within *generate.py* to your use case.
+Tested support for Python version 3.9.12, untested on other Python versions.
