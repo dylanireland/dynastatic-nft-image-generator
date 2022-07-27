@@ -1,4 +1,4 @@
-# Dynastatic NFT Generator
+# Dynastatic NFT Generator 🧑‍🎨
 
 Light (but slow) NFT image and metadata generator that uses static assets for some parts of the generation and dynamic assets for others. It additionally supports semi-static folders, where, for example, each NFT needs assets from a specific path but the assets it layers on top of those are dynamic.
 
