@@ -7,6 +7,7 @@ Light (but slow) NFT image and metadata generator that uses static assets for so
 ```
 git clone https://github.com/dylanireland/dynastatic-nft-image-generator.git
 cd dynastic-nft-image-generator/
+pip3 install Pillow
 python3 generator.py
 ```
 Place your visual NFT assets in the same working directory.
